@@ -1,7 +1,7 @@
 {
-  "name": "ol-mapped",
+  "name": "@mikebendorf11/ol-next",
   "version": "1.0.0",
-  "description": "An OpenLayers version compatible the online API at openlayers.org",
+  "description": "An OpenLayers library version which is compatible with the standard OL API at openlayers.org",
   "main": "index.js",
   "dependencies": {
     "ol": "^6.5.0"
@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/MikeBendorf11/ol-next/issues"
   },
-  "homepage": "https://github.com/MikeBendorf11/ol-next#readme"
+  "homepage": "https://github.com/MikeBendorf11/ol-next#readme",
+  "keywords": [
+    "open",
+    "layers",
+    "ol"
+  ]
 }
