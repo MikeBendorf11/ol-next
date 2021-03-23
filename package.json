@@ -1,9 +1,12 @@
 {
   "name": "@mikebendorf11/ol-next",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An OpenLayers library version which is compatible with the standard OL API at openlayers.org",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
   "dependencies": {
     "@types/node": "^14.14.35",
     "ol": "^6.5.0",
