@@ -1,0 +1,23 @@
+{
+  "name": "ol-mapped",
+  "version": "1.0.0",
+  "description": "An OpenLayers version compatible the online API at openlayers.org",
+  "main": "index.js",
+  "dependencies": {
+    "ol": "^6.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeBendorf11/ol-next.git"
+  },
+  "author": "Mike Bendorf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikeBendorf11/ol-next/issues"
+  },
+  "homepage": "https://github.com/MikeBendorf11/ol-next#readme"
+}
